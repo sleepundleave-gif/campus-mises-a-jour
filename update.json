@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.3.0/Campus-Android-v1.3.apk",
-  "sha256": "2e932e0cca6b79715a9feb5fda84a359c67b4d3dff3e3be26a18d86911536a5c",
-  "notes": ""
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.4.0/Campus-Android-v1.4.apk",
+  "sha256": "f2747a6801000701debf2ded7be6e00965b67e5109b3cee5fc540a39b854cc83",
+  "notes": "Modifiez vos réponses avant export, puis enregistrez-les en Word modifiable ou en PDF. L’export est aussi disponible depuis l’historique. Les données et la clé IA déjà présentes sur le téléphone sont conservées lors de la mise à jour."
 }
