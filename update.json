@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.5.0/Campus-Android-v1.5.apk",
-  "sha256": "64bb815436d561257ce8e2f430eaf0380e5d86da75dee68bb6cce4c3afc54956",
-  "notes": "Texte noir en thème clair et nouvelle animation d’ouverture Par KKAD STUDIO. Le thème sombre reste lisible, et vos documents, exports et configuration IA locale sont conservés lors de la mise à jour."
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.6.0/Campus-Android-v1.6.apk",
+  "sha256": "d07b4959f4d7a0481a45dc8ee7d9c557161a7bd2262f09561c9edc64820d4675",
+  "notes": "Nouveau logo animé à l’ouverture suivi du tableau de bord. Les mises à jour disposent d’un bouton dédié et d’un badge lorsqu’une nouvelle version est détectée. L’APK publié ne contient pas de clé IA et conserve les données locales existantes."
 }
