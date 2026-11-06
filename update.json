@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.6.0/Campus-Android-v1.6.apk",
-  "sha256": "d07b4959f4d7a0481a45dc8ee7d9c557161a7bd2262f09561c9edc64820d4675",
-  "notes": "Nouveau logo animé à l’ouverture suivi du tableau de bord. Les mises à jour disposent d’un bouton dédié et d’un badge lorsqu’une nouvelle version est détectée. L’APK publié ne contient pas de clé IA et conserve les données locales existantes."
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.7.0/Campus-Android-v1.7.apk",
+  "sha256": "c1271d107236383fecb6699710e3a1ace87cda280f2c34ee90f1ca6ab0cac57a",
+  "notes": "L’adresse de mise à jour n’apparaît plus dans l’application. La vérification et le badge continuent de fonctionner automatiquement. Vos données et votre configuration IA locale restent conservées lors de la mise à jour."
 }
