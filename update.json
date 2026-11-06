@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.7.0/Campus-Android-v1.7.apk",
-  "sha256": "c1271d107236383fecb6699710e3a1ace87cda280f2c34ee90f1ca6ab0cac57a",
-  "notes": "L’adresse de mise à jour n’apparaît plus dans l’application. La vérification et le badge continuent de fonctionner automatiquement. Vos données et votre configuration IA locale restent conservées lors de la mise à jour."
+  "versionCode": 10,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v1.8.0/Campus-Android-v1.8.apk",
+  "sha256": "de32824c730191e2e5c7637482e0a50eb3e7f017a1ea55486094a11fa7cbd74e",
+  "notes": ""
 }
