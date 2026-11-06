@@ -1,0 +1,65 @@
+name: Publier la mise à jour Campus
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag de la release déjà publiée (par exemple v1.3.0)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: campus-update-publication
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ouvrir la branche principale
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Installer les outils Android
+        uses: android-actions/setup-android@v3
+      - name: Préparer et vérifier le manifeste
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event_name == 'workflow_dispatch' && inputs.tag || github.event.release.tag_name }}
+          RELEASE_NOTES: ${{ github.event.release.body || '' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          sdkmanager 'build-tools;34.0.0' >/dev/null
+          export PATH="$ANDROID_HOME/build-tools/34.0.0:$PATH"
+          release_dir="$RUNNER_TEMP/campus-release"
+          mkdir -p "$release_dir"
+          gh release download "$RELEASE_TAG" --repo "$GITHUB_REPOSITORY" --pattern '*.apk' --dir "$release_dir"
+          mapfile -d '' apks < <(find "$release_dir" -maxdepth 1 -type f -iname '*.apk' -print0)
+          if [ "${#apks[@]}" -ne 1 ]; then
+            echo 'La release doit contenir exactement un fichier APK.' >&2
+            exit 1
+          fi
+          # Limit the text passed to the manifest, as required by the app.
+          notes="${RELEASE_NOTES:0:900}"
+          python3 scripts/preparer_release.py "${apks[0]}" --repo "$GITHUB_REPOSITORY" --tag "$RELEASE_TAG" --notes "$notes" --output update.json
+      - name: Publier update.json sur la branche principale
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add update.json
+          if git diff --cached --quiet; then
+            echo 'Le manifeste est déjà à jour.'
+          else
+            git commit -m 'Publier la mise à jour Campus'
+            git push origin "HEAD:${DEFAULT_BRANCH}"
+          fi
