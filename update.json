@@ -3,5 +3,11 @@
   "versionName": "2.8.1",
   "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.1/Campus-Android-v2.8.1.apk",
   "sha256": "d3c0bf396ada44ac7932fe7146f16d621feefd2f2e9ed414320475954dbde07f",
-  "notes": ""
+  "notes": "",
+  "patch": {
+    "base": 21,
+    "revision": 1,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.1-patch1/Campus-2.8.1-correctif-1.zip",
+    "signature": "yhfCz/7gDmCQm9XaQ/9WGuuNF17jxsGTH0iUQ6yC8sUOiArS4BqtAyjhHmIFTBXptoCgQtRUgesKOu0mrFr95sK3fwc4J33c8gJR/M3TyfTIMbJp3aEI9/HBIARxNzupQTuMzZ3bKc+AnReR6pAFYJcI2TfuCsA/NM+qg0t4Xxq0hluUxq6fltXNqildahYVdcEXb5iKDq8vxVFJ9HdonXjpr0zE3kWMSXPqdoqGaiwlFPDJvzYwn/GMkWVVjhP1njCmMlXNwc7VJdhIbpsaOsqL/Q5lVsWMEJhR9Me/1ZbNZ9Zl3LhYn2150HpL2Jz2bt5R0E9hJRSLOOUxskJSOQ=="
+  }
 }
