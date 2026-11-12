@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "2.8.1",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.1/Campus-Android-v2.8.1.apk",
-  "sha256": "d3c0bf396ada44ac7932fe7146f16d621feefd2f2e9ed414320475954dbde07f",
+  "versionCode": 24,
+  "versionName": "2.8.2",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-audio-mise-a-jour/Campus-Android-v2.8.2-mise-a-jour.apk",
+  "sha256": "f077c52ab13c1c5f7cd03cf910b8e1e42ea5154564a09ba52c67ae2431477f79",
   "notes": "",
   "patch": {
     "base": 24,
