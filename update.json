@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
+  "versionCode": 26,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-audio-mise-a-jour/Campus-Android-v2.8.2-mise-a-jour.apk",
-  "sha256": "f077c52ab13c1c5f7cd03cf910b8e1e42ea5154564a09ba52c67ae2431477f79",
-  "notes": "",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-test-correctif-blocage-voix-code26/Campus-correctif-blocage-voix-test.apk",
+  "sha256": "30ec82b119b84d99812bc808ef47c3efc01d87f4c1b34e8e0febacf2bdce2bdc",
+  "notes": "Correction du blocage lors de la vérification de la voix et correctifs précédents intégrés.",
   "patch": {
     "base": 24,
     "revision": 2,
