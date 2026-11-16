@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
+  "versionCode": 27,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-test-correctif-blocage-voix-code26/Campus-correctif-blocage-voix-test.apk",
-  "sha256": "30ec82b119b84d99812bc808ef47c3efc01d87f4c1b34e8e0febacf2bdce2bdc",
-  "notes": "Correction du blocage lors de la vérification de la voix et correctifs précédents intégrés.",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-logo-anime-final-code27/Campus-Android-v2.8.2-logo-anime.apk",
+  "sha256": "242b7e76a20984530a6c2ac99e5d0f5d879db2b24979cbf70e565f525d7191ea",
+  "notes": "Nouveau logo et animation de démarrage colorée, avec tous les correctifs précédents.",
   "patch": {
     "base": 24,
     "revision": 2,
