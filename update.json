@@ -1,9 +1,9 @@
 {
-  "versionCode": 27,
+  "versionCode": 31,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-logo-anime-final-code27/Campus-Android-v2.8.2-logo-anime.apk",
-  "sha256": "242b7e76a20984530a6c2ac99e5d0f5d879db2b24979cbf70e565f525d7191ea",
-  "notes": "Nouveau logo et animation de démarrage colorée, avec tous les correctifs précédents.",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-voix-en-ligne-code31/Campus-Android-voix-en-ligne-v31.apk",
+  "sha256": "72d472aa5cbe5c37dbe076cd6483f7dc0c3fe3ffcb2741f87aedc535ca8be585",
+  "notes": "Voix en ligne pour les cours et transcription de fichiers audio, avec les fonctions précédentes.",
   "patch": {
     "base": 24,
     "revision": 2,
