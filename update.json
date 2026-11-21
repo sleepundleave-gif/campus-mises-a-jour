@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
+  "versionCode": 39,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-cloud-nvidia-code38/Campus-cloud-NVIDIA-v38.apk",
-  "sha256": "c5a8f7a2bea09c55e8ae9ebd8e6aa1293470e9a02b31c78e9dc0db35dc867041",
-  "notes": "Votex utilise NVIDIA gratuit via Cloudflare ; voix en ligne et transcription conservées. Corrections des documents DOC/DOCX et de l’affichage des réponses."
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-nvidia-correctif-installation-code39/Campus-NVIDIA-v39-aligne.apk",
+  "sha256": "e1198fd4c41ac9636842aaa7e518e3a8bb14da194b64aabcdff60350aaea44d0",
+  "notes": "Correctif d’installation Android : alignement des bibliothèques natives. Votex utilise le modèle NVIDIA gratuit via Cloudflare."
 }
