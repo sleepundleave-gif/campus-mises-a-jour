@@ -1,13 +1,7 @@
 {
-  "versionCode": 31,
+  "versionCode": 38,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-voix-en-ligne-code31/Campus-Android-voix-en-ligne-v31.apk",
-  "sha256": "72d472aa5cbe5c37dbe076cd6483f7dc0c3fe3ffcb2741f87aedc535ca8be585",
-  "notes": "Voix en ligne pour les cours, transcription audio et correctif léger pour les documents Office.",
-  "patch": {
-    "base": 31,
-    "revision": 3,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-office-patch-base31-rev3/Campus-correctif-office-base31-rev3.zip",
-    "signature": "ujOsha2QJz0MaixOk28rirQdYHfi9+dVItaKYSfryzvf6Z7rmqq2ReQhKSdlJ3gjFTaQBIve4uFj+x78rFc4ouXWl4m9ClnWJ16LG+zbYwznSwAtwIYyFqwEBN1DYho7yM3DujNzRR9jupufB8T3+IV6Nu9Bpx6chiK2VPOlm3ntroC8dK++0kbd6TSUI+WYqw6uzKrWa3TwW4X6T+RBtXM+RA64uaguvCN6m1Hq8FMsAgFoPUFC8d3ulWK86h4eYesX/cwO2E8xLeyWsVkWlzsSqn9R5ShDGGfgckdSUSa7sNnSRvOA56HO18jc3LsCbb9i5w4EQ7Simk+T6AuEmA=="
-  }
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-cloud-nvidia-code38/Campus-cloud-NVIDIA-v38.apk",
+  "sha256": "c5a8f7a2bea09c55e8ae9ebd8e6aa1293470e9a02b31c78e9dc0db35dc867041",
+  "notes": "Votex utilise NVIDIA gratuit via Cloudflare ; voix en ligne et transcription conservées. Corrections des documents DOC/DOCX et de l’affichage des réponses."
 }
