@@ -6,8 +6,8 @@
   "notes": "Campus v41 : nouvelle présentation de neuf rubriques, Votex et Audio séparés. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
   "patch": {
     "base": 41,
-    "revision": 3,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-fonds-themes-patch-base41-rev3/Campus-correctif-fonds-v41-rev3.zip",
-    "signature": "Yx1Iaq1SpvILgKhqKHr8tg4jK+YiNONZE+Y3fgQ8GgBUtdMLhI/TLOtwAHdvFszlLCEdVRKSEtbvOGmg1uJ+VXPj3sfT4tHTR+opRM/ea9D16a55qmztBzNUCPMUvQP7BDf/jgtbq8/oy/MFmFybotwaFv61uioqwWHlXDoCb+Qfrzx7O4JAF9pQufcGzc4THXAImoxYBXg7OcqG4QAVOFHD0azTjsbpt4Z6iEvA8mtbsRPBDlxQLmeDDa/1neecnU4hYnX8bF0m8TJZfQP3RLmcfG0V6tvB4PyhjeTOKQ8e66bQI02dNU55UD2U1Xxv1kQZa0fJ5dhoyarIh2Vd/Q=="
+    "revision": 4,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-votex-reflexion-base41-rev4/Campus-votex-reflexion-v41-rev4.zip",
+    "signature": "PheMjC262XUK9UODo1cnadr1iYR/BKzT4MM1sKaRxXyVzUvzGzF040+lYXwJB5uIMHC9uqfeauUVxUrR8TLuGbCVtAtweoo+qvpM1Gge/7z3uOd3CDJB7lf206jOCLYGCWkTjmVAhkY6eQmhYw5bmvIMOBUZCVdSHgsoWuLrc4LMGvK3nlgqOUMB4Ue8jnMfSexulncd/niUYb4UhkHlfjrsJOPF/87reBcOpXTehvV+Tu1LvFgHMDzYkKAydYcfGutd55kDxoB8miPaqRa2zqStI9E0E1TL/Szr9YahkRkZus5B3WZGEN/T4ZMstRlISzdiYoroVvsCUWgY8SkHVQ=="
   }
 }
