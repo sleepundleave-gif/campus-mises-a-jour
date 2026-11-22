@@ -6,8 +6,8 @@
   "notes": "Campus v41 : nouvelle présentation de neuf rubriques, Votex et Audio séparés. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
   "patch": {
     "base": 41,
-    "revision": 4,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-votex-reflexion-base41-rev4/Campus-votex-reflexion-v41-rev4.zip",
-    "signature": "PheMjC262XUK9UODo1cnadr1iYR/BKzT4MM1sKaRxXyVzUvzGzF040+lYXwJB5uIMHC9uqfeauUVxUrR8TLuGbCVtAtweoo+qvpM1Gge/7z3uOd3CDJB7lf206jOCLYGCWkTjmVAhkY6eQmhYw5bmvIMOBUZCVdSHgsoWuLrc4LMGvK3nlgqOUMB4Ue8jnMfSexulncd/niUYb4UhkHlfjrsJOPF/87reBcOpXTehvV+Tu1LvFgHMDzYkKAydYcfGutd55kDxoB8miPaqRa2zqStI9E0E1TL/Szr9YahkRkZus5B3WZGEN/T4ZMstRlISzdiYoroVvsCUWgY8SkHVQ=="
+    "revision": 5,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-paysage-simplification-base41-rev5/Campus-orientation-simplifiee-v41-rev5.zip",
+    "signature": "k3lnI1nYSsf3dV4wM4ZB30I3ZRSyIb7jnGim7DPTBVbGsSRhfWN99MaQK8gErS64IgVn2+BczaOnNiKD0MaeggDzQ6exLfGyfNkZR7v7lHjfzg77Z7Ue4mixm/cvuDQs0Jq3XgqHdEQx9BG6dZcM2mhUacmQQTVCzvPqUDT2KOVnbnjvAJYCZGEsVhx46PsPDP8OkHPP7wi1dakNjgr3Ljb6XFDzrDP6jwiKF2eVDLYuHrl1Er1KmDpwaaOsy2Lo5qU4Lk2EA+qvAyamxxwQQkUcrjgU/h8dPJ03IEekU20oW2GenDqqVmn6di9MvAhrtwOMmpyDUohUkEAPrH65Jw=="
   }
 }
