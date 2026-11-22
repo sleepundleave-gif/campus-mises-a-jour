@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
+  "versionCode": 41,
   "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-nvidia-correctif-installation-code39/Campus-NVIDIA-v39-aligne.apk",
-  "sha256": "e1198fd4c41ac9636842aaa7e518e3a8bb14da194b64aabcdff60350aaea44d0",
-  "notes": "Correctif d’installation Android : alignement des bibliothèques natives. Votex utilise le modèle NVIDIA gratuit via Cloudflare."
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-maquettes-test-code41/Campus-maquettes-v41-test.apk",
+  "sha256": "b5ef7e2d395f2f34d73710e347e1a2c9fdca172806a5db7c6b6f3fc0e19ad5f2",
+  "notes": "Campus v41 : nouvelle présentation de neuf rubriques, Votex et Audio séparés. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation."
 }
