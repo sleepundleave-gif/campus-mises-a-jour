@@ -3,11 +3,11 @@
   "versionName": "2.8.2",
   "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-maquettes-test-code41/Campus-maquettes-v41-test.apk",
   "sha256": "b5ef7e2d395f2f34d73710e347e1a2c9fdca172806a5db7c6b6f3fc0e19ad5f2",
-  "notes": "Campus v41 : nouvelle présentation de neuf rubriques, Votex et Audio séparés. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
+  "notes": "Campus v41 : nouvelle interface néo-futuriste, cinq ambiances, Votex et Audio séparés. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
   "patch": {
     "base": 41,
-    "revision": 5,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-paysage-simplification-base41-rev5/Campus-orientation-simplifiee-v41-rev5.zip",
-    "signature": "k3lnI1nYSsf3dV4wM4ZB30I3ZRSyIb7jnGim7DPTBVbGsSRhfWN99MaQK8gErS64IgVn2+BczaOnNiKD0MaeggDzQ6exLfGyfNkZR7v7lHjfzg77Z7Ue4mixm/cvuDQs0Jq3XgqHdEQx9BG6dZcM2mhUacmQQTVCzvPqUDT2KOVnbnjvAJYCZGEsVhx46PsPDP8OkHPP7wi1dakNjgr3Ljb6XFDzrDP6jwiKF2eVDLYuHrl1Er1KmDpwaaOsy2Lo5qU4Lk2EA+qvAyamxxwQQkUcrjgU/h8dPJ03IEekU20oW2GenDqqVmn6di9MvAhrtwOMmpyDUohUkEAPrH65Jw=="
+    "revision": 6,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-neofuturiste-test-base41-rev6/Campus-neofuturiste-v41-rev6-test.zip",
+    "signature": "VrWRI2LZj/chs8jQ7dwKQ7s/fKO+O6qHdnAFi5pFpJuThbGkYNGvZYUVA3eBHiKBLRQKHT0FnBSwQrLQnLRkUnQJXUFY8E8u8tKUXu3kdvYub57jIvCnRofuRyBlxJZOwt7HbHXiOIHXLTtgqhw/iH6TidLo0lpBJo7JIZaKhGvPXy/up7EHm+jW2WQ07OAeQ1sJY9BRVOWC0Ej1rCA/UbGR3SUI2AZRvgVK3sxWKAtRgMpdfaNI4xG737n9Npnb5LmD3rRfcXCeLJpXWQ0sTh8ao0R/EzDImDze4TReuNHNb2CB3BuZ5y846t3SOoQ+MGMUc3YKd2WpT0Un8KFYow=="
   }
 }
