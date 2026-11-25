@@ -3,11 +3,11 @@
   "versionName": "2.8.2",
   "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-maquettes-test-code41/Campus-maquettes-v41-test.apk",
   "sha256": "b5ef7e2d395f2f34d73710e347e1a2c9fdca172806a5db7c6b6f3fc0e19ad5f2",
-  "notes": "Campus v41 : interface néo-futuriste, cinq ambiances et robot Votex animé pendant la réflexion. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
+  "notes": "Campus v41 : recherche YouTube dans Votex (vidéos ouvertes sur YouTube ou dans le navigateur) et lecture avec la voix du téléphone. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
   "patch": {
     "base": 41,
-    "revision": 7,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-votex-robot-articule-base41-rev7/Campus-Votex-articule-v41-rev7-test.zip",
-    "signature": "mU2sfvz9yHdO5gSDOgrF5W8WR+LAqvLI7ZS9voJ/5v0h9A1uL705oD9PvajvWe58RCSJ+9EAuHvQqZzNS9wOyAWCpbiHDt8U/JYnzxVtlRCo9HL1NPsBMfOoBxPp4aQ0G+LaDy6VN+fNh9NCV7BAodNIyUkJZ4WNzXzU7ZVZcJqCA4qt2WUQ4jX1R7G2OkLbkmgrg0EkCUgrO+UAuvphhwz9nXwKlXdierPPCsIScFFJA/lShETAXduATXzreki/ZkjwQQvwWa1dfVSgSjeuo2s7uXoY5FGDPdKgEIfivUbEiTXHBhiWA/0Yl2PBiKNf3UjqD/n3aqQCGzmLC5t97Q=="
+    "revision": 9,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-voix-recherche-videos-base41-rev9/Campus-voix-et-recherche-videos-base41-rev9.zip",
+    "signature": "YFLZqQcz1XaiL9E9Pgn8t4hM8TjK2BriFFRLd1hFHLzLw0ZQeVxkNrBEj75DHxhqMhJJ/Ap9KwG3bXf1mS6Ggl1tO8s3zVKlQ2N/be+zrKM7F989Xx3OXzIQ8uyCbOlmh8RiPd7Gfz2hGR5TiS3zT5JJ9dNRkE5vQBjLts7KPoyuVGr7qZDZBllDTY4cCCoyE8mecz/ukgB8X4xgGnwFn/4SRp17zuK/vGQQJamfdl4exREcwZh0HVxG9FIymhYLMsl4ZeDRRNc6slE7qbwx9gSaC9UbcnNC3oGNWrYcpq+/xIsHdUhUFVv+WDW7f/1bsZWRvcdftoUfD/NvuBC3RA=="
   }
 }
