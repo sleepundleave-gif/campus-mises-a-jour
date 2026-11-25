@@ -3,11 +3,11 @@
   "versionName": "2.8.3",
   "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-cours-video-code42/Campus-officiel-v42.apk",
   "sha256": "53e5bca3fcda671a25a48f43be7b6fc9f920805dc7440ea6f693c206ff464a6c",
-  "notes": "Campus 2.8.3 : recherche de vidéos depuis un cours, lecteur intégré et voix du téléphone. Nouvelle conversation efface aussi les recherches vidéo sans supprimer vos documents ni audios.",
+  "notes": "Campus 2.8.3 : Votex propose des recherches vidéo à partir des extraits du cours choisi ; mots-clés à vérifier avant la recherche YouTube. Nouvelle conversation efface les recherches vidéo sans supprimer les documents ni audios.",
   "patch": {
     "base": 42,
-    "revision": 3,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-effacer-videos-base42-rev3/Campus-effacer-videos-base42-rev3.zip",
-    "signature": "i58cvdEuieavmtJlA9sNCDQwL2s/SepH179MWt+t4ioTpU8EmHvBryEHdJqahBV9MJii4Oa7mZzpQ3DsUh8VBNBxB77jQ3qXzqjCSaZDqkTuninpj6+AsGu8uQ+axrWzofW0AiLxiHJ7mpT0GBBL4A2q6O07munuCgm4kb0wOZlFwtlcGz4mYKdYMS40q36BeZJJNps5efRsXxZp3t8RzsrOm32ueOtsvE1S1dyfgokTQHjTXKEf2AV1yc0x9fcHruQzv85XJ4VxYg4Wcs3MjAEpeAEftc8AOL4fYvfGi3Vzd+oDrTjE3RVD0gQh8VeHsDgrv1OAM/Msh0gdgg8cyg=="
+    "revision": 4,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-votex-cours-videos-base42-rev4/Campus-votex-cours-videos-base42-rev4.zip",
+    "signature": "Yl6JPu3sJo9yrPhvalkCoG/E9PH7rryB5Ukx8wAiiZX9pjAA3b/38cr4KJw50F1MWZ6fHqcI891qpRE7P7ngs1RpP4x2sDou8/d3GC5t043P4JqizfIqIAcXHcTJQgJ/5s7qRdJVb1i12sT6b/sXriRReDcKocz1R2y6uNOE94kvMkGGiv5jIqcqjTCJliz7ROxyIf0SAaCZDzcWKMDJTUqwPmsXIR97WVWbFn3BBM0gnpU3+703qo7ZZPJ6JiUg+eDpngcyHj3tfnYldYFfFRx3XSXjGL1YW779y9skCSO6INx//+jpdqTqyeYhIlWZ7515ZtGWeU0JPUJoCFyqPA=="
   }
 }
