@@ -1,13 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "2.8.2",
-  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-maquettes-test-code41/Campus-maquettes-v41-test.apk",
-  "sha256": "b5ef7e2d395f2f34d73710e347e1a2c9fdca172806a5db7c6b6f3fc0e19ad5f2",
-  "notes": "Campus v41 : recherche YouTube dans Votex (vidéos ouvertes sur YouTube ou dans le navigateur) et lecture avec la voix du téléphone. Sauvegardez vos données avant l’installation par-dessus, sans désinstallation.",
-  "patch": {
-    "base": 41,
-    "revision": 9,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.2-voix-recherche-videos-base41-rev9/Campus-voix-et-recherche-videos-base41-rev9.zip",
-    "signature": "YFLZqQcz1XaiL9E9Pgn8t4hM8TjK2BriFFRLd1hFHLzLw0ZQeVxkNrBEj75DHxhqMhJJ/Ap9KwG3bXf1mS6Ggl1tO8s3zVKlQ2N/be+zrKM7F989Xx3OXzIQ8uyCbOlmh8RiPd7Gfz2hGR5TiS3zT5JJ9dNRkE5vQBjLts7KPoyuVGr7qZDZBllDTY4cCCoyE8mecz/ukgB8X4xgGnwFn/4SRp17zuK/vGQQJamfdl4exREcwZh0HVxG9FIymhYLMsl4ZeDRRNc6slE7qbwx9gSaC9UbcnNC3oGNWrYcpq+/xIsHdUhUFVv+WDW7f/1bsZWRvcdftoUfD/NvuBC3RA=="
-  }
+  "versionCode": 42,
+  "versionName": "2.8.3",
+  "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-cours-video-code42/Campus-officiel-v42.apk",
+  "sha256": "53e5bca3fcda671a25a48f43be7b6fc9f920805dc7440ea6f693c206ff464a6c",
+  "notes": "Campus 2.8.3 : recherche de vidéos depuis un cours, lecteur intégré YouTube avec secours externe et voix du téléphone. Sauvegardez vos données puis installez par-dessus, sans désinstaller. Version complète non testée sur téléphone."
 }
