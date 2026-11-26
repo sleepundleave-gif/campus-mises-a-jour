@@ -3,11 +3,11 @@
   "versionName": "2.8.3",
   "apkUrl": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-cours-video-code42/Campus-officiel-v42.apk",
   "sha256": "53e5bca3fcda671a25a48f43be7b6fc9f920805dc7440ea6f693c206ff464a6c",
-  "notes": "Campus 2.8.3 : robot de réflexion Votex centré et animé en entier pour éviter les articulations déchirées. Les vidéos favorites et les fonctions précédentes restent disponibles.",
+  "notes": "Campus 2.8.3 : délai de connexion à Votex allongé et messages de diagnostic améliorés. Le modèle NVIDIA gratuit et les fonctions précédentes restent disponibles.",
   "patch": {
     "base": 42,
-    "revision": 8,
-    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-robot-reflexion-centre-base42-rev8/Campus-robot-reflexion-centre-base42-rev8.zip",
-    "signature": "gnehfwSMz/81/147yVfj3zullb130uiQ/cQ6wouyFBpqDyAFBV3K90tJblFtYRwfilUXXPN2UMbnV1bbY3tAL73VAWZQlAEoxwL3XjRg4wo5nEIZjSXwGVUpKT/9WiB/y/yvv+HdT3U3wGbbED8cWSCff5AwFRhTOox7CinDLQpl2a3l+rkQS93T1FcnqJLKWy9F7Tp5PDbdbz3iMsqWN7jrpwShBrzIRSIjkaYZImNTb3pKqUA8wM57HOJHax/kUIvJm0syXGHYNq5tmDY9TNmqBHIaj3Rzv/e1cDw7NgXBHlieRLWiqcydb44j0YQs5ILShn9pbvnbkYAZGSMixw=="
+    "revision": 9,
+    "url": "https://github.com/sleepundleave-gif/campus-mises-a-jour/releases/download/v2.8.3-votex-connexion-base42-rev9/Campus-votex-connexion-base42-rev9.zip",
+    "signature": "VPQxAR0bUeEYB9w2OfyAAknbnw7uYKTTynVkW6c5gYghClWXLYLmcvGOErTf6qZ1FwG6LDw4b/DCy4fn/yxCH5ZUlT96l4TAcX103RlecpKOZk16+TaYho3dbIXmJ94yuTp3829xkaxva/71VcmgJ5m4fw/gIJdJPTK8+shC95rHzO1WRrVpDTvF2uGWGf2hZk0jh2TvnvqTixwqGpoQYkhwD6IWBW3utc1qNB/HeVeLILUiu2fO8ce4jjJBnpCYOC8+6qS99Yey7lcQUz/+uWg8dLdyQvA7C8Py5TSapBCOdF1jClLenEiL59Htc06Ob42fP4X8Ty9J0U0P5cBoUg=="
   }
 }
